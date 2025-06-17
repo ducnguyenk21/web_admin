@@ -48,7 +48,7 @@ export default function Login() {
           >
             <Box
               width="100%"
-              maxWidth={400}
+              maxWidth={410}
               bgcolor="white"
               p={4}
               borderRadius={2}
