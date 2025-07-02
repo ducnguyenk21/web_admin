@@ -65,4 +65,4 @@
 ---
 
 ## 🔗 Liên kết khác
-- 📱 [Mobile App](https://github.com/vinhtran113/KLTN/tree/main)
+- 📱 [HealthMate App Github](https://github.com/vinhtran113/KLTN/tree/main)
