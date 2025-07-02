@@ -1,4 +1,4 @@
-# 💪 HealthMate Web Admin
+# 🖥️ HealthMate Web Admin
 
 Ứng dụng quản trị giúp quản lý toàn bộ hệ thống tập luyện thể thao, bao gồm bài tập, món ăn, nguyên liệu, người dùng và thống kê hoạt động.
 
