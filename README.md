@@ -65,4 +65,4 @@
 ---
 
 ## 🔗 Liên kết khác
-- 📱 [Mobile App GitHub Repo](https://github.com/vinhtran113/KLTN/tree/main)
+- 📱 [Mobile App](https://github.com/vinhtran113/KLTN/tree/main)
